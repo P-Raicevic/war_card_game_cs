@@ -1,0 +1,30 @@
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csprojAssemblyReference.cache
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.Form1.resources
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.Properties.Resources.resources
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csproj.GenerateResource.cache
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.exe.config
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.exe
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.pdb
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.exe
+C:\Users\pavle\Desktop\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.pdb
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.exe.config
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.exe
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.pdb
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.Form1.resources
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.Properties.Resources.resources
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csproj.GenerateResource.cache
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.exe
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.pdb
+C:\Users\Win\Desktop\New folder\I Semestar\Baze podataka\C# Workspace\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csprojAssemblyReference.cache
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.exe.config
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.exe
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\bin\Debug\WindowDemo1.pdb
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csprojAssemblyReference.cache
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.Form1.resources
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.Properties.Resources.resources
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csproj.GenerateResource.cache
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.exe
+C:\Users\Dejana\Desktop\WindowDemo1\WindowDemo1\obj\Debug\WindowDemo1.pdb
